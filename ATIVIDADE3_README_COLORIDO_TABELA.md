@@ -1,4 +1,4 @@
-# 📊 IA no Setor Bancário – Framework de Análise
+# 📊  Análise - IA no Setor Bancário
 
 ![Banner](banner_atividade3_colorido.png)
 
@@ -57,11 +57,6 @@
 - Redesenhar o mercado de trabalho interno: foco em requalificação ao invés de substituição.
 - Atuar junto a reguladores para co-construir normas que equilibrem inovação e segurança.
 
----
-
-## ✅ Conclusão do Framework
-O artigo mostra que a IA nos bancos é uma arma de dois gumes: pode trazer ganhos gigantes de eficiência, personalização e segurança, mas também riscos elevados de exclusão, falta de transparência e vulnerabilidade.  
-O futuro competitivo das instituições dependerá de como conseguirem equilibrar inovação tecnológica com governança ética, regulatória e social.
 
 ---
 
@@ -78,10 +73,16 @@ O futuro competitivo das instituições dependerá de como conseguirem equilibra
 
 ---
 
+## ✅ Conclusão do Framework
+O artigo mostra que a IA nos bancos é uma arma de dois gumes: pode trazer ganhos gigantes de eficiência, personalização e segurança, mas também riscos elevados de exclusão, falta de transparência e vulnerabilidade.  
+O futuro competitivo das instituições dependerá de como conseguirem equilibrar inovação tecnológica com governança ética, regulatória e social.
+
+---
+
 🔗 **Referência**:  
 [Estadão – Bancos e Inteligência Artificial: Quem está no controle?](https://www.estadao.com.br/economia/gestao-e-negocios/bancos-e-inteligencia-artificial-quem-esta-no-controle/?srsltid=AfmBOori52THAPwIOh1Uf3WXeOlOapM3CGFw3OT6kVxTpYHwKyBoC87G)
 
 ---
 
-👩‍💻 Desenvolvido por: **Atividade Acadêmica – 2025**  
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jenifer-sabino-2b21b2378)
+  **Atividade Acadêmica**  
+👩‍💻  [![Linkedin](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jenifer-sabino-2b21b2378)
